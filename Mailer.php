@@ -7,8 +7,8 @@ use Illuminate\Support\Facades\File;
 class Mailer
 {
 
-    const MAILER_FROM_ADDRESS = "";
-    const MAILER_FROM_NAME = "";
+    const MAILER_FROM_ADDRESS = "someone@somewhere.nl";
+    const MAILER_FROM_NAME = "Someone special";
 
 
 
