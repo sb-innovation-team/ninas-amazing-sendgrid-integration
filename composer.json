@@ -1,0 +1,25 @@
+{
+    "name": "barcat/sendgrid",
+    "type": "library",
+    "description": "Using Sendgrid API to send e-mails. Templates and attachments are also a possibility.",
+    "keywords": ["email","sendgrid","mailer"],
+    "homepage": "https://github.com/sb-innovation-team/ninas-amazing-sendgrid-integration",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nina Barkat",
+            "email": "nina@socialbrothers.nl",
+            "homepage": "None",
+            "role": "Back-end intern :-)"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.3",
+        "sendgrid/sendgrid": "~7"
+    },
+    "autoload": {
+        "psr-0": {
+            "sendgrid": ""
+        }
+    }
+}
