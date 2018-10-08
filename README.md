@@ -13,5 +13,5 @@ sure you got the correct libraries before you implement these portable classes.
 
 Enter the received API key in the .env file provided.
 
-# Dependencies
+# Installation
 `composer require barcat/sendgrid`
